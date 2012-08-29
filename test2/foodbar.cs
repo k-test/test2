@@ -9,6 +9,7 @@ namespace test2
     {
         public int numfoo { get; set; }
         public int numbars { get; set; }
+        public string name { get; set; }
 
     }
 }
