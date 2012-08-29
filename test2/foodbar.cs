@@ -7,5 +7,7 @@ namespace test2
 {
     class foodbar
     {
+        public int numfoo { get; set; }
+
     }
 }
