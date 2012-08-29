@@ -9,7 +9,8 @@ namespace test2
     {
         static void Main(string[] args)
         {
-            Console.Write("asdfasdfad");
+            Console.Write("hello kausar");
+            Console.Write("hello add");
 
         }
     }
