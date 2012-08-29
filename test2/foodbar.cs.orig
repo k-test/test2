@@ -7,8 +7,11 @@ namespace test2
 {
     class foodbar
     {
-        public int numfoo { get; set; }
+<<<<<<< HEAD
         public int numbars { get; set; }
+=======
+        public int numfoo { get; set; }
 
+>>>>>>> 4e45a29a814a41fa3a11db4238c6d947c4972fa7
     }
 }
